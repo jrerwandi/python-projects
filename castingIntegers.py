@@ -6,3 +6,5 @@ print(y)
 print(z)
 a = x + y
 print(a)
+b = a - x
+print(b)
