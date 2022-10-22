@@ -1,3 +1,4 @@
+# Tic Tac Toe
 board = [' ' for x in range(10)]
 def insertLetter(letter, pos):
     board[pos] = letter
